@@ -138,6 +138,6 @@ Source Code :- [19-Nov-Fsjs2.0/Position\_Sticky at main · simran-24/19-Nov-Fsjs
 
 Hope it was helpful!
 
-HAppy LearNing :)
+HAppy LearNing! :)
 
 ![See the source image](https://media1.tenor.com/images/88ae11548eb77b751325c3ff493cddcc/tenor.gif?itemid=11819904 align="left")
