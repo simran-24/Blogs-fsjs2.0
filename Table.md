@@ -1,4 +1,4 @@
-# Let's Play with <Table>
+# Let's Play with Table
 
 Firstly, We need to understand that actually what a table is.
 
